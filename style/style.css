@@ -239,3 +239,136 @@ nav img{
     font-weight: 700;
     margin-bottom: 20px;
 }
+
+.head__btm{
+    display: flex;
+    margin-top: 80px;
+    justify-content: space-between;
+}
+
+.head__box{
+    height: 700px;
+    width: 47%;
+}
+
+.box__im{
+    padding: 40px;
+    background-color: #F7FFEC;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.box__im2{
+    padding: 40px;
+    background-color: #F7FFEC;
+    display: flex;
+    height: 500px;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+
+.kak__log{
+    position: absolute;
+    top: 175px;
+    left: 258px;
+}
+
+.head__box h1{
+    font-size: 52px;
+    margin-bottom: 30px;
+    font-weight: 800;
+}
+
+.head__box p{
+    font-size: 22px;
+    margin-top: 30px;
+}
+
+.siction{
+    margin-top: 80px;
+    display: flex;
+    justify-content: space-between;
+    height: 550px;
+}
+
+.sic__box{
+    width: 48%;
+    height: 100%;
+}
+
+.sic__bix{
+    background-color: #F7FFEC; 
+    display: flex;
+    gap: 40px;
+    padding: 30px;
+}
+
+.sic-pos{
+    margin-bottom: 20px;
+}
+
+.sic__bix div h2{
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.sic__bix div h1{
+    font-size: 27px;
+    font-weight: 600;
+    color: red;
+    margin-top: 10px;
+}
+
+.sic__bix div p{
+    font-size: 22px;
+    line-height: 30px;
+}
+
+.siction p{
+    font-size: 19px;
+    margin: 15px 0 0 0;
+}
+
+.sic__bx{
+    font-size: 50px;
+    font-weight: 700;
+    margin-bottom: 40px;
+}
+
+footer{
+    margin-top: 70px;
+    background-color: #F7FFEC;
+    display: flex;
+    height: 350px;
+    justify-content: space-around;
+    align-items: center;
+    position: relative;
+}
+
+.foot-one{
+    margin-top: 10px;
+}
+
+.position{
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+}
+
+.footer__box{
+    width: 20%;
+}
+
+.foot__log{
+    margin-top: 20px;
+    display: flex;
+    gap: 20px;
+}
+
+.footer__box p{
+    margin-top: 10px;
+}
