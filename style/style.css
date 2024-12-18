@@ -188,7 +188,6 @@ nav img{
     align-items: center;
     padding: 45px 30px;
     background-color: #F7FFEC;
-    border: 1px solid;
 }
 
 .img__bx2{
@@ -197,7 +196,6 @@ nav img{
     align-items: center;
     padding:30px;
     background-color: #F7FFEC;
-    border: 1px solid;
 }
 
 .btm__bx2{
@@ -212,5 +210,32 @@ nav img{
 
 .foot__bx__img{
     margin-top: 100px;
-    border: 1px solid;
+
+    display: flex;
+    justify-content: space-between;
+}
+
+.box-img{
+    width: 45%;
+}
+
+.checkbox div{
+    display: flex;
+    gap: 15px;
+    align-items: center;
+    margin: 21px 0;
+}
+
+.checkbox div p{
+    font-size: 25px;
+}
+
+.box-img2{
+    width: 50%;
+}
+
+.box-img2 h1{
+    font-size: 55px;
+    font-weight: 700;
+    margin-bottom: 20px;
 }
