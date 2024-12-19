@@ -1,0 +1,284 @@
+@media(min-width: 450px) and (max-width: 650px){
+
+    .container{
+        max-width: 450px;
+    }
+
+    .hamburger{
+        display: block;
+    }
+
+
+
+    nav div p{
+        display: none;
+    }
+
+    nav div .wrapper{
+        display: none;
+    }
+
+    .box__img{
+        width: 100%;
+    }
+
+    .box__img img{
+        left: 0px;
+        width: 400px;
+    }
+
+    .h1__box {
+        width: 420px;
+        font-size: 26px;
+        top: -350px;
+        left: 25px;
+    }
+
+    .pbox2 {
+        padding-top: 0px;
+        height: 0px;
+        position: relative;
+    }
+
+    .nav__boxs{
+        flex-direction: column;
+
+    }
+
+    .box {
+        width: 100%;
+    }
+
+    .btm__img__bx {
+        flex-direction: column;
+        margin-top: 40px;
+    }
+
+    .btm__bx {
+        width: 100%;
+        height: 100%;
+    }
+
+    .btm__bx h1 {
+        margin-top: 40px;
+        margin-bottom: 40px;
+        font-size: 40px;
+        margin-left: 20px;
+    }
+
+    .img__bx1 img{
+        width: 90%;
+    }
+
+    .p__boxs {
+        padding: 20px;
+        margin-top: 480px;
+    }
+
+    .img__bx1 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 15px;
+        background-color: #F7FFEC;
+    }
+
+    .btm__bx2 {
+        height: 100%;
+        width: 100%;
+    }
+
+    .img__bx2 {
+        margin-top: 220px;
+    }
+
+    .prosent{
+        display: none;
+    }
+
+    .btm__bx2 p {
+        font-size: 16px;
+        margin: 20px;
+    }
+
+    .wrapper {
+        position: relative;
+        width: 120px;
+        height: 50px;
+        margin: 20px;
+    }
+
+    .foot__bx__img {
+        margin-top: 40px;
+        flex-direction: column;
+    }
+
+    .parokis{
+        margin-top: 0px;
+    }
+
+    .box-img {
+        width: 100%;
+    }
+
+    .checkbox div p {
+        font-size: 15px;
+    }
+
+    .box-img2 {
+        width: 100%;
+    }
+
+    .checkbox div {
+        margin: 20px;
+    }
+
+    .box-img2 h1 {
+        font-size: 55px;
+        font-weight: 700;
+        margin-bottom: 20px;
+        margin: 20px;
+    }
+
+    .head__btm {
+        margin-top: 40px;
+        flex-direction: column;
+    }
+
+    .head__box {
+        height: 700px;
+        width: 100%;
+    }
+
+    .head__box h1 {
+        margin: 20px;
+    }
+
+    .kak__log {
+        left: 158px;
+    }
+
+    .head__box p {
+        font-size: 22px;
+        margin: 20px;
+    }
+
+    .siction {
+        margin-top: 30px;
+        flex-direction: column;
+        height: 550px;
+    }
+
+    .sic__box {
+        width: 100%;
+        height: 100%;
+        margin-top: 40px;
+    }
+
+    .sic__bix {
+        padding: 20px;
+    }
+
+    .sictin{
+        display: none;
+    }
+
+    .siction p {
+        /* font-size: 19px; */
+        /* margin: 15px 0 0 0; */
+        display: none;
+    }
+
+    footer {
+        margin-top: 0px;
+        flex-wrap: wrap;
+    }
+
+    .footer__box {
+        width: 48%;
+    }
+
+    .position{
+        display: none;
+    }
+}
+
+
+@media(min-width: 651px) and (max-width: 720px){
+    .hamburger{
+        display: none;
+    }
+
+    .box__img{
+        width: 100%;
+    }
+
+    .nav__boxs{
+        flex-direction: column;
+    }
+
+    .pbox2{
+        width: 100%;
+        height: 0px;
+        padding-top: 20px;
+    }
+
+    .h1__box {
+        width: 670px;
+        font-size: 35px;
+        top: -400px;
+        left: 40px;
+    }
+
+    .nav__boxs img{
+        width: 500px;
+    }
+
+    .btm__img__bx {
+        margin-top: 50px;
+    }
+
+    .btm__bx{
+        width: 50%;
+    }
+
+    .btm__bx h1 {
+        margin-bottom: 20px;
+        font-size: 30px;
+    }
+
+    .img__bx1 img{
+        width: 320px;
+    }
+
+    .img__bx2 img{
+        width: 220px;
+    }
+
+    .p__boxs {
+        padding: 40px;
+        margin-top: 430px;
+    }
+
+    .wrapper{
+        width: 100px;
+        height: 45px;
+    }
+
+    .back-div{
+        font-size: 13px;
+    }
+
+    .front-div{
+        font-size: 13px;
+    }
+
+    .resolt{
+        height: 220px;
+    }
+
+    .cont2 {
+        padding: 20px;
+        height: 900px;
+    }
+}
